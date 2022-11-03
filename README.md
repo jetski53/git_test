@@ -1,5 +1,8 @@
-# git_test
-My first GitHub repo!
-Hello Odin!
+testing git 
 
-update
+git init
+git diff
+
+git add
+git commit -m 
+git push
